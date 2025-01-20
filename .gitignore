@@ -3,3 +3,13 @@
 
 # Ignore Gradle build output directory
 build
+# Gradle
+/.gradle/
+/build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
+*.log
